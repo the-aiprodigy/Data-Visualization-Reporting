@@ -1,2 +1,4 @@
-# Data Visualization & Reporting
-This category includes projects that involve analyzing and visualizing data to understand its properties and structure, such as identifying patterns or outliers, as well as projects that involve effective data storytelling and communicating insights to different audiences
+# Operational Analytics & Reporting
+Projects here involve creating systems and reports that help businesses operate more efficiently, often in real time. It's about turning data into actionable insights on a day-to-day operational level.
+
+
